@@ -1,0 +1,68 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "W1ndysの小屋",
+      "url": "https://blog.w1ndys.top/",
+      "avatar": "https://avatars.githubusercontent.com/u/109416673?v=4",
+      "screenshot": "https://static.sakurasep.top/website/W1ndys.jpg",
+      "description": "欲戴皇冠，必承其重"
+    },
+    {
+      "title": "繁华如风的小站",
+      "url": "https://fhrf.top",
+      "avatar": "https://www.fhrf.top/img/tx.png!/format/webp/lossless/true",
+      "screenshot": "https://static.sakurasep.top/website/fhrf.jpg",
+      "description": "最后不知天在水,满船清梦压星河。"
+    },
+    {
+      "title": "Torrk's Blog",
+      "url": "https://conimi.com",
+      "avatar": "https://conimi.com/files/images/i.png",
+      "screenshot": "https://static.sakurasep.top/website/conimi.jpg",
+      "description": "记录，成为更好的自己。"
+    },
+    {
+      "title": "雨中的博客",
+      "url": "https://coolchong.cn/",
+      "avatar": "http://cdn.coolchong.cn/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/langwenchong.png",
+      "screenshot": "https://static.sakurasep.top/website/coolchong.jpg",
+      "description": "纵有疾风起，人生不言弃"
+    },
+    {
+      "title": "MJ's Blog",
+      "url": "https://blog.justlovesmile.top",
+      "avatar": "https://npm.elemecdn.com/justlovesmile-img/logo.jpg",
+      "screenshot": "https://static.sakurasep.top/website/justlovesmile.jpg",
+      "description": "醒亦念卿，梦亦念卿"
+    },
+    {
+      "title": "心月云",
+      "url": "https://wch666.com",
+      "avatar": "https://wch666.com/head.png",
+      "screenshot": "https://static.sakurasep.top/website/wch666.jpg",
+      "description": "须知少时凌云志，曾许人间第一流！"
+    },
+    {
+      "title": "Pei你看雪 Blog",
+      "url": "https://pnkx.top",
+      "avatar": "https://ftp.pnkx.top:8/ftp/pnkx/images/pnkx-logo.jpg",
+      "screenshot": "https://static.sakurasep.top/website/pnkx.jpg",
+      "description": "陪伴是最长情的告白"
+    },
+    {
+      "title": "温锦瑜的博客",
+      "url": "https://www.wenjinyu.me/",
+      "avatar": "https://i.loli.net/2019/04/04/5ca5531418852.png",
+      "screenshot": "https://static.sakurasep.top/website/wenjinyu.jpg",
+      "description": "先想想为什么，再考虑怎么做"
+    },
+    {
+      "title": "长街短梦",
+      "url": "https://wangyunzi.com/",
+      "avatar": "https://blog.wangyunzi.com/avatar.png",
+      "screenshot": "https://blog.wangyunzi.com/siteshot.png",
+      "description": "此行山高路远，我只剩口袋玫瑰一片"
+    }
+  ]
+}
